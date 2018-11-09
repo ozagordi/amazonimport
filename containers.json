@@ -1,0 +1,9 @@
+[
+  {
+    "Description": "Test Ubuntu VM",
+    "Format": "ova",
+    "UserBucket": {
+        "S3Bucket": "sfborabucket",
+        "S3Key": "bora.ova"
+    }
+}]
